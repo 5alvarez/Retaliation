@@ -135,7 +135,7 @@ JENKINS_NOTIFICATION_UDP_PORT   = 22222
 JENKINS_SERVER                  = "http://192.168.1.100:23456"
 
 #
-# If you're Jenkins server is secured by HTTP basic auth, sent the
+# If your Jenkins server is secured by HTTP basic auth, send the
 # username and password here.  Else leave this blank.
 HTTPAUTH_USER                   = ""
 HTTPAUTH_PASS                   = ""
